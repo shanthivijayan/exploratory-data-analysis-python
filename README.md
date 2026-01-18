@@ -2,6 +2,7 @@
 
 
 **📌 Overview**
+
 This repository demonstrates exploratory data analysis (EDA) using Python on multiple real-world datasets, including laptop pricing, insurance costs, and book prices. It showcases the process of data cleaning, transformation, visualization, and basic predictive modeling, forming the foundation for actionable insights.
 
 These projects were completed as part of my IBM Data Analyst Professional Certificate and independent practice.
